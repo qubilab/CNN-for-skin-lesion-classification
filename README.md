@@ -1,1 +1,1 @@
-# Convolutional-Neural-Network-for-skin-lesion-classification
+# CNN-for-skin-lesion-classification

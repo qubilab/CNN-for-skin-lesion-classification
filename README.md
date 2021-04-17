@@ -1,11 +1,18 @@
 
 # CNN-for-skin-lesion-classification
+
+## Colab notebooks
+
+[Case 1 - link to Colab](https://colab.research.google.com/github/qubilab/CNN-for-skin-lesion-classification/blob/main/Case_1_Convolutional_Neural_Network_for_skin_lesion_classification_understanding_the_fundamentals_through_hands_on_learning.ipynb)
+
+[Case 2 - link to Colab](https://colab.research.google.com/github/qubilab/CNN-for-skin-lesion-classification/blob/main/Case_2_Convolutional_Neural_Network_for_skin_lesion_classification_understanding_the_fundamentals_through_hands_on_learning.ipynb)
+
 Please refer to the [article](https://www.frontiersin.org/articles/10.3389/fmed.2021.644327/full) below for further information.
 
-## Reference
+### Reference
 Please cite the publication below in all your documents and manuscripts that made use of the software included in this repository.
 > #### Convolutional Neural Network for Skin Lesion Classification: Understanding the Fundamentals Through Hands-On Learning
-> ###### Cullell-Dalmau, M. and No{\'e}, S., Otero-Vi{\~n}as, M., Mei{\'c}, I., and Manzo, Carlo
+> ###### Cullell-Dalmau, M. and Noé, S., Otero-Viñas, M., Meić, I., and Manzo, C.
 > ###### *Frontiers in Medicine* 8: 213 (2021)
 > ###### doi: 10.3389/fmed.2021.644327
 > ###### [Link to Frontiers in Medicine](https://www.frontiersin.org/articles/10.3389/fmed.2021.644327/full)
@@ -21,10 +28,4 @@ Please cite the publication below in all your documents and manuscripts that mad
   year={2021},
   publisher={Frontiers}
 }
-```
 
-## Colab notebooks
-
-[Case 1 - link to Colab](https://colab.research.google.com/github/qubilab/CNN-for-skin-lesion-classification/blob/main/Case_1_Convolutional_Neural_Network_for_skin_lesion_classification_understanding_the_fundamentals_through_hands_on_learning.ipynb)
-
-[Case 2 - link to Colab](https://colab.research.google.com/github/qubilab/CNN-for-skin-lesion-classification/blob/main/Case_2_Convolutional_Neural_Network_for_skin_lesion_classification_understanding_the_fundamentals_through_hands_on_learning.ipynb)

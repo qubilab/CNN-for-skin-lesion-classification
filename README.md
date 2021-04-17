@@ -1,5 +1,6 @@
 
 # CNN-for-skin-lesion-classification
+A hands-on pedagogical activity that dissects the procedures to train a convolutional neural network (ResNet-50) on a dataset containing images of skin lesions associated with different skin cancer categories
 
 ## Colab notebooks
 
@@ -28,4 +29,3 @@ Please cite the publication below in all your documents and manuscripts that mad
   year={2021},
   publisher={Frontiers}
 }
-
